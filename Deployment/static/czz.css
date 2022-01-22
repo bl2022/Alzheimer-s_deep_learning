@@ -1,0 +1,80 @@
+
+   h1{  
+        padding: 15px;
+        margin: 0px;
+    }
+    body{
+        padding: 0px;
+        margin: 0px;
+
+    }
+    header{ 
+
+        background-color:rgb(173, 134, 173);        ;
+        text-align: leftS;
+        color: rgb(17, 16, 16);
+
+    }
+    footer  
+    {
+        background-color:rgb(173, 134, 173);        ;
+        text-align: center;
+        color: rgb(17, 16, 16);
+    }
+    footer {
+        padding: 5px;
+    }
+         
+    .top img{
+        width : 500px;
+        float: right;
+        padding: 100px;
+        margin : 0px;
+
+    }
+
+    p , h2{
+        padding: 0px;
+        margin: 0px;
+    }
+    a{
+        color: rgb(8, 8, 8);
+        text-decoration: none;
+    }
+    header ul{
+        background-color: rgb(171, 162, 173);
+        padding: 10px;
+        text-align: center;
+        margin: 0px;
+    }
+    header li{
+        display: initial;
+        border-right: 1px solid rgb(12, 12, 12);
+        margin-left: 7px;
+    }
+    header li:last-child {
+        border-right:none;
+    }
+   
+
+    
+    .artickel ul{
+        padding: 15px;
+    }
+    .artickel li{
+        display: block;
+        width: 700px;
+        border: 1px solid rgb(255, 255, 255);
+        margin-bottom: 16px;
+    }
+
+    
+    .title {
+        background:rgba(173, 135, 179, 0.336);
+        padding: 10px;
+    }
+    .content{
+        background-color: rgb(255, 255, 255);
+        padding: 10px;
+    } 
+    
