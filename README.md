@@ -1,1 +1,1 @@
-# Alzheimer-s_deep_learning
+# Alzheimer deep learning
