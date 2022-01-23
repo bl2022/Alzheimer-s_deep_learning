@@ -1,10 +1,5 @@
 # Alzheimer deep learning
-# ![image](https://user-images.githubusercontent.com/93194522/150690439-c52897f1-3e8c-4d9f-9d04-7fd85c4e6a52.png)
-# <p  align="center">  Deep Learning - Alzheimer Disease </p>
-
- <p align="center" width="100%">
-    <img  width="600" height="350" src="https://www.bing.com/th/id/OIP.d2XQMOmG0dLf4Xq24aMhvQHaFC?pid=ImgDet&rs=1">
-</p>
+# ![image](https://media.gatesnotes.com/-/media/Images/Articles/Health/The-unexpected-way-we-might-one-day-diagnose-Alzheimers/alzheimers_2019_article-hero_1200x564_v3.ashx)
 
 ## Introduction
  
