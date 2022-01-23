@@ -1,5 +1,5 @@
 # Alzheimer deep learning
-# ![image](https://media.gatesnotes.com/-/media/Images/Articles/Health/The-unexpected-way-we-might-one-day-diagnose-Alzheimers/alzheimers_2019_article-hero_1200x564_v3.ashx)
+# ![image](https://www.amrhasanneuro.com/ApplicationImages/PatientInformationImages/innerThumb115.jpeg)
 
 ## Introduction
  
