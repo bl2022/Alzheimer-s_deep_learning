@@ -1,6 +1,6 @@
-# ![image](https://user-images.githubusercontent.com/93194522/150690439-c52897f1-3e8c-4d9f-9d04-7fd85c4e6a52.png)
-
 # <p  align="center">  Deep Learning - Alzheimer Disease </p>
+
+# ![image](https://user-images.githubusercontent.com/93194522/150690439-c52897f1-3e8c-4d9f-9d04-7fd85c4e6a52.png)
 
  <p align="center" width="100%">
     <img  width="600" height="350" src="https://www.bing.com/th/id/OIP.d2XQMOmG0dLf4Xq24aMhvQHaFC?pid=ImgDet&rs=1">
@@ -39,10 +39,10 @@ Pandas , Numpy, Matplotlibe, Seaborn , Sklearn, Tensorflow, Keras, Flask, Sci-Ki
 ## *Dataset Source:*
   It was uploaded from Kaggle website, [Click here to go to Dataset](https://www.kaggle.com/gautamgc75/alzheimer-detect-1/data)
 ## *Team members:*
+ - [ ]  [Abdulsalam Saeed Alqarni](https://github.com/AbdulsalamAlqrni)
+
  - [ ] [Ahad Safer Almutairi](https://github.com/Ahad1996)
 
- - [ ] [rayan abdulaziz almowaina](https://github.com/rayanabdulaziz)
-
- - [ ]  [Abdulsalam Saeed Alqarni](https://github.com/AbdulsalamAlqrni)
+ - [ ] [Rayan abdulaziz almowaina](https://github.com/rayanabdulaziz)
 
  - [ ]  [Bayan Ali Alshehri](https://github.com/bl2022)
